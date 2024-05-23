@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="btnBG">배경색 변경</string>
+    <string name="btnRotation">버튼 회전 및 확대</string>
+</resources>
